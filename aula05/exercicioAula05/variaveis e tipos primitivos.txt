@@ -1,0 +1,48 @@
+abrir terminal (new terminal)
+digitar node
+
+exercicios do video:
+
+
+
+> typeof A
+'number'
+> typeof 'A'
+'string'
+> typeof 32
+'number'
+> typeof ()
+...
+... typeof {}
+typeof ()
+        ^
+
+Uncaught SyntaxError: Unexpected token ')'
+>  typeof []
+'object'
+> typeof null
+'object'
+> typeof ujndefined
+'undefined'
+> typeof 'jesus'
+'string'
+> typeof functio () {}
+typeof functio () {}
+                  ^
+
+Uncaught SyntaxError: Unexpected token '{'
+> typeof function(){}
+'function'
+> var a = 'joao'
+undefined
+> a
+'joao'
+> var b = 500
+undefined
+> b
+500
+> var c = 100
+undefined
+> b + c
+600
+>
